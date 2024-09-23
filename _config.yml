@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://decieun.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: decieun # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -203,7 +203,7 @@ compress_html:
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: [development]	
 
 exclude:
   - "*.gem"
